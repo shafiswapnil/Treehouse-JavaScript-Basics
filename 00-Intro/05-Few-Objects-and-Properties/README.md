@@ -7,3 +7,10 @@ Here *variable* is an **Object** and **length** is a command/property. In the mi
 Check this image below
 
 ![object-and-propery](img/object-and-property.png)
+
+
+## Objects
+
+- A string, a document, the browser's console
+- Objects have properties, such as the length of a string
+- Objects have methods, which are actions the object can perform
