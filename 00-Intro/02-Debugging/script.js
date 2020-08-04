@@ -1,4 +1,4 @@
-console.log("Program start");
+console.log("Start program.");
 
 // Problem to be fixed
 /*
@@ -14,4 +14,4 @@ alert("Can you get this message to appear ?");
 document.write("<h2>My first JavaScript program</h2>");
 document.write("<p>I'm practicing 'debugging'.</p>");
 
-console.log("Program finised");
+console.log("End program.");
