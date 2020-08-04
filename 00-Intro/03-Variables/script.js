@@ -11,4 +11,12 @@ var message;
 // var message = "Hello!";
 message = "Hello!";
 message = "Welcome to JavaScript Basics"
-alert(message);
+window.alert(message);
+
+person = "She's a person!";
+person = 'She\'s a person!';
+console.log(person);
+
+htmlSnippet = '<h1 class="special">Important Headline</h1>';
+htmlSnippet = "<h1 class=\"special\">Important Headline</h1>";
+console.log(htmlSnippet);
