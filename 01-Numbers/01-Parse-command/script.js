@@ -7,8 +7,9 @@ alert("Wow! You have " + totalBadges + " badges!");
 document.getElementById("total").innerHTML = totalBadges;
 console.log(totalBadges);
 
-// parseInt
-// parseFloat
+// for example
+document.getElementById("ieInt").innerHTML = parseInt('2.99');
+
 console.log(parseFloat('1.34'));
 console.log(parseFloat("1.8 light years away"));
 console.log(parseInt("Hi 455"));
