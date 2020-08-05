@@ -1,0 +1,7 @@
+Challenge
+
+Create a random number generator. Collect a random number from the user. and print a random number from 1 to the user's provided number.
+
+To go even futher,
+
+Create a program that accepts two values and generates a random number from the first to the second.
