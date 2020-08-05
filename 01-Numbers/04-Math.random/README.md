@@ -1,3 +1,3 @@
 # Just a note
 
-![math_properties_floor_and_ceil](img/math_properties.png)
+![Image showing Math.floor() and Math.ceil() outputs](img/math_properties.png)
