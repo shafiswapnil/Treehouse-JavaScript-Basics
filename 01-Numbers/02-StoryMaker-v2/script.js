@@ -19,7 +19,8 @@ story = "There once a ";
 story += adjective;
 story += " programmer who wanted to use JavaScript to "
 story += verb;
-story += " the world."
+story += " the "
+story += noun;
 
 document.getElementById("story").innerHTML = story;
 console.log(story);
