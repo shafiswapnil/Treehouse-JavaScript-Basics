@@ -1,0 +1,17 @@
+CHALENGE
+-------------
+
+1. at least ask 5 questions
+
+2. keep track of remaining questions, and correct question
+
+3. final message to letting the user know 
+
+----FEEDBACK----
+gold crown 5 ques right
+
+3-4 silver crown
+ 
+1-2 brown
+
+0 for now crown
