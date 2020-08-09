@@ -1,0 +1,1 @@
+Make the random number generator function more flexible by asking the user a upper value and a lower value. Meaning, the generator should not be constant or static. The user should say that he wants a random number between 4 to 57 or 0 to 6 or maybe else. 
