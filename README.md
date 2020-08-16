@@ -1,4 +1,4 @@
 # Treehouse-JavaScript-Basics
 Exercise files during this course.
 
-> I will update this readme file after course completion.
+This following course covers all of the JavaScript basics. The folders in here contain every code related to each concept. There is some notes and instructions README for a few topics inside some folders.
